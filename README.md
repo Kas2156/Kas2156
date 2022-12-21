@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kas2156 (Kevin)
-- 👀 I’m interested in Coding in Java/C#/ZenScript
+- 👀 I’m interested in Coding in Java/C#/lua
 - 🌱 I’m currently learning Math/Computer Science/English
 - 🌎 I'm German/Russian and speak English and French
 - 🎉 My Birthday is on 21.05
